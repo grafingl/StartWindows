@@ -1,0 +1,1 @@
+sc config MMCSS start= disabled

@@ -1,0 +1,2 @@
+reg add HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer /v HubMode /d 1 /t REG_DWORD /f
+reg add HKCU\Software\Classes\CLSID\{f874310e-b6b7-47dc-bc84-b9e6b38f5903} /v System.IsPinnedToNameSpaceTree /d 0 /t REG_DWORD /f

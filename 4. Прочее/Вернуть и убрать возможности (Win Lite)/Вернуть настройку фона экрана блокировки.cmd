@@ -1,0 +1,1 @@
+reg add "HKLM\Software\Policies\Microsoft\Windows\Personalization" /v "NoLockScreen" /t reg_dword /d "0" /f

@@ -1,0 +1,10 @@
+Windows Registry Editor Version 5.00.
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control].
+
+"SvcHostSplitThresholdInKB"=dword:16777216
+
+
+8 - 8388608
+16 - 16777216
+32 - 33554432

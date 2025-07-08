@@ -1,0 +1,18 @@
+GUID схемы питания: 282de9e2-d77b-4a40-9dc5-df350462c02f  (CoreVeeAir's)
+GUID схемы питания: 381b4222-f694-41f0-9685-ff5bb260df2e  (Сбалансированная)
+GUID схемы питания: 44e60fa6-89df-48c2-9fd9-14314143e3ba  (Zoyata)
+GUID схемы питания: 45458f35-aefd-4f78-b04b-81bf85f39b0b  (Adamx's Power Plan)
+GUID схемы питания: 75e22aa4-e751-43f1-b9b4-89c2b8661385  (AMD Ryzen™ High Performance) *
+GUID схемы питания: 871cc0bd-ea3c-492f-9191-40aa104c255e  (amit's low latency powerplan)
+GUID схемы питания: 8c5e7fda-e8bf-4a96-9a85-a6e23a8c635c  (Высокая производительность) *
+GUID схемы питания: 916a7db5-0101-4938-89c0-446e2b9071ba  (TJxTech Performance PowerPlan)
+GUID схемы питания: 9feca7b8-3d58-40de-8ff4-a70dbc9c83cc  (Alchemy)
+GUID схемы питания: a1841308-3541-4fab-bc81-f71556f20b4a  (Экономия энергии)
+GUID схемы питания: ae2ae907-97ea-4178-b4bf-82103283170f  (Bitsum Highest Performance)
+GUID схемы питания: b3f8974f-aa84-4d14-a9fa-7037d954add0  (SKID_LOW_LATENCY)
+GUID схемы питания: c3799c86-f38d-455d-9139-e9e8762f072e  (Muren's Low Latency)
+GUID схемы питания: cbc79ba6-e630-4a9f-baa7-42a948ac61f4  (Calypto's Low Latency)
+GUID схемы питания: d04afc1b-1d2a-407c-b8e1-5fb81f871463  (Khorvie's PowerPlan)
+GUID схемы питания: dd176571-6602-40cd-ab39-34878d5c4f9a  (EverythingTech's Ultra Low Latency)
+GUID схемы питания: e8216ba3-dcc2-4d68-86d1-aec7f3986ef9  (PrivateV2)
+GUID схемы питания: f31e65bf-fd76-4718-a1d1-f8db1a412d5a  (Максимальная производительность)
