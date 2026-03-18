@@ -2,4 +2,5 @@
 Prop3=19,11
 [InternetShortcut]
 IDList=
-URL=https://dotnet.microsoft.com/en-us/download/dotnet/10.0/runtime/desktop
+URL=https://dotnet.microsoft.com/en-us/download/dotnet/11.0/runtime/desktop
+HotKey=0
