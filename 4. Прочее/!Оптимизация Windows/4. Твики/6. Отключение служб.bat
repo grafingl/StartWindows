@@ -1,4 +1,5 @@
 @echo off
+sc config "AMD Crash Defender Service" start= disabled
 sc config "AxInstSV" start= disabled
 sc config "tzautoupdate" start= disabled
 sc config "dmwappushservice" start= disabled
