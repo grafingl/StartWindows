@@ -2,4 +2,5 @@
 Prop3=19,11
 [InternetShortcut]
 IDList=
-URL=https://www.qbittorrent.org/download
+URL=https://github.com/picotorrent/picotorrent/releases/latest
+HotKey=0
